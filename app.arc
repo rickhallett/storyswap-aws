@@ -1,9 +1,9 @@
 @app
 grunge-stack-template
 
-# @aws
-# region us-east-2
-# profile default
+@aws
+region eu-north-1
+profile dev-profile
 
 @http
 /*
